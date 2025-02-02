@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=%E2%98%86+Ol%C3%A1%2C+eu+me+chamo+Nat%C3%A1lia!+%E2%98%86" alt="Typing SVG" /></a>
 </div>
 
-<img align="center" alt="" src="https://github.com/NataliaBackend/NataliaBackend/blob/ddd1b9400adf6ddca6705baf524a75a315f5fe03/capa.png">
+<img align="center" alt="" src="https://github.com/NataliaBackend/NataliaBackend/blob/f59c08ee903009bcaca5c6c46e26c6db45e3aa9a/Capa%20Git.gif">
 
 #
 
