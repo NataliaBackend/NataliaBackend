@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25" alt="spotify logo"  />
 </div>
 
-<h3 align="left">Ferramentas para Estudos</h3>
+<h3 align="left">Estudos</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" height="25" alt="udemy logo"  />
