@@ -47,7 +47,7 @@
 
 #
 
-<img align="right" alt="" height="195px" src="https://github.com/NataliaSilva-Dev/NataliaSilva-Dev/blob/eabee773aebefa8e8b32ce1bb4cfb7b30b055043/castlevania.gif">
+<img align="right" alt="" height="195px" src="https://github.com/NataliaBackend/NataliaBackend/blob/895c97e80c63f7fef1f1f4301f07ed71729f6908/castlevania.gif">
 
 <h3 align="left">Hobbies</h3>
 
