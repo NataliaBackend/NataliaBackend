@@ -6,7 +6,7 @@
 
 #
 
-<p align="center"> Sou natural de Fortaleza/CE, formada em técnica em Administração e atualmente estou cursando Sistemas para Internet no IFAC. Atuo como estagiária no Núcleo de Inovação Tecnológica (NIT), onde desenvolvo soluções inovadoras e exploro tecnologias emergentes.
+<p align="center"> Sou natural de Fortaleza/CE, formada em técnica em Administração e atualmente estou cursando Sistemas para Internet no IFAC.
   
 <p align="center"> Minha maior conquista foi vencer o Desafio de Ideias 2024 após desenvolver um sistema de detecção de incêndios florestais. Atualmente, estudo Python para análise de dados e busco novos desafios para crescer na área de tecnologia e gestão.
   
