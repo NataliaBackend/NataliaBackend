@@ -67,11 +67,13 @@
 
 #
 
+<!--
 <div style="text-align: center;" align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=NataliaBackend&hide_title=true&show_icons=true&include_all_commits=true&line_height=25&rank_icon=github&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   </div>
+-->
 
 #
 
