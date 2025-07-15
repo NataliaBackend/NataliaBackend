@@ -12,6 +12,7 @@
   
 <p align="center"> Fora do código, gosto de ler, jogar e praticar exercícios físicos para equilibrar mente e corpo.
 
+#
 
 <img align="right" alt="" height="200px" src="https://github.com/NataliaBackend/NataliaBackend/blob/ebc1e32bd94155c5499deec41f1a0ca17afb8dfc/nat1.gif">
 
@@ -73,8 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NataliaBackend&hide_title=true&show_icons=true&include_all_commits=true&line_height=25&rank_icon=github&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   </div>
 -->
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NataliaBackend/NataliaBackend/output/github-contribution-grid-snake-dark.svg">
