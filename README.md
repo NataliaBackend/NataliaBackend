@@ -12,7 +12,6 @@
   
 <p align="center"> Fora do código, gosto de ler, jogar e praticar exercícios físicos para equilibrar mente e corpo.
 
-#
 
 <img align="right" alt="" height="200px" src="https://github.com/NataliaBackend/NataliaBackend/blob/ebc1e32bd94155c5499deec41f1a0ca17afb8dfc/nat1.gif">
 
